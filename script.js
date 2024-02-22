@@ -1,0 +1,1 @@
+console.log("halo aku akun lain")
